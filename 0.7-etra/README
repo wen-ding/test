@@ -1,0 +1,7 @@
+This is the Linux version of the SUSI Library.
+
+To build:
+
+1) Run 'make'.
+
+Install only from the SUSI debian package.
